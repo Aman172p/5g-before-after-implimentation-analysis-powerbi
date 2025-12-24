@@ -3,11 +3,12 @@
 
 5G Implementation Impact Assessment
 
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+## Table of Content
+* [Problem statement](#Problem-statementy)
+* [Tool and Method ](#Tool-and-Method )
+* [Dashbord](#Dashbord)
+* [Key Findings & Insights](#Key-Findings-Insights)
+* [Final-Recommendation](#Final-Recommendation)
 
 
 ## Problem statement
@@ -21,22 +22,22 @@ Management requires a dashboard to monitor Revenue, Active Users, MAU, ARPU, and
 •	Custom & Marketplace Visuals
 
 ## Dashbord
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
+## Key Findings & Insights
 
-## Result and Conclusion
+* **Revenue Concentration:** The top five cities remain the primary growth drivers, contributing **60% of total revenue** post-5G rollout.
+* **Churn Risk in Key Hubs:** Critical revenue centers—including **Delhi, Chennai, Ahmedabad, Patna, and Raipur**—are seeing a decline in Monthly Active Users (MAU).
+* **Customer Retention Warning:** An increase in inactive and unsubscribed users in these cities signals a high risk of customer churn.
+* **ARPU Growth vs. Adoption:** Average Revenue Per User (ARPU) **increased by 11.05%**, indicating that while active users are paying more, high pricing may be a barrier to broader 5G adoption.
+* **Strategic Need:** Urgent targeted engagement strategies are required to safeguard market share and balance revenue growth with long-term customer retention.
 
-The post-5G rollout period reveals a mixed performance landscape. While the top five cities continue to drive 60% of total revenue, key revenue hubs like Delhi, Chennai, Ahmedabad, Patna, and Raipur are experiencing declining Monthly Active Users (MAU) and a rise in inactive and unsubscribed users. This signals potential customer churn risks and underscores the urgent need for targeted engagement strategies to safeguard market share.
+## Final Recommendation:
 
-Interestingly, Average Revenue Per User (ARPU) has increased by 11.05%, suggesting that current pricing strategies are extracting higher revenue from a smaller, active customer base. However, this also indicates that pricing may be a barrier to broader adoption, and a careful reassessment is required to balance customer retention with revenue growth.
-
-Strategic Implications:
-
-Implement targeted marketing campaigns to re-engage declining MAU in key cities.
-
-Address the surge in unsubscribed users (UNU) to prevent reputational damage.
-
-Reevaluate pricing strategies to optimize ARPU while minimizing customer attrition.
-
-Develop a dual-focused approach: retain high-value customers while attracting new users in critical revenue markets.
-
-Overall, this analysis highlights the need for a proactive, data-driven strategy to stabilize revenue, reduce churn, and ensure sustainable growth in the post-5G landscape.
+* **Targeted Re-engagement:** Launch specific marketing campaigns to stabilize and recover declining Monthly Active Users (MAU) in high-impact cities.
+* **Churn Mitigation:** Proactively address the surge in unsubscribed users (UNU) to safeguard brand reputation and reduce customer attrition.
+* **Pricing Optimization:** Reevaluate existing pricing structures to maintain high ARPU while ensuring costs do not drive further customer loss.
+* **Dual-Growth Strategy:** Implement a balanced approach focused on retaining high-value customers while simultaneously acquiring new users in critical revenue markets.
+* **Data-Driven Growth:** Adopt a proactive analytical strategy to stabilize revenue streams and ensure sustainable market share in the post-5G landscape.
